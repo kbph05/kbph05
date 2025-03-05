@@ -8,7 +8,7 @@
 ## About me
 I am a second year Computer Engineering student at Simon Fraser University. Most of my experience is with C++, Matlab and Java, however I also know Python and VHDL.
 
-I enjoy self-repairing computers, where I am currently rebuilding an iMac and Windows desktop for Linux. I also have a hobby for water skiing and clarinet.
+I enjoy self-repairing computers, where I am currently rebuilding a recycled Windows desktop using new and old spare computer parts. Outside of the digital world, I have a hobby for water skiing and the clarinet.
 
 
 <!---
