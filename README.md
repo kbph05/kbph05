@@ -1,7 +1,5 @@
 # Kirstin Horvat
-<img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-blue?logo=cplusplus&labelColor=grey">  <img alt="Static Badge" src="https://img.shields.io/badge/Java-%2523ED8B00?logo=openjdk&logoColor=white&labelColor=grey&color=blue">  <img alt="Static Badge" src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&labelColor=grey"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML-label?logo=html5&logoColor=white&labelColor=grey&color=blue">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/-Eclipse-blue?logo=eclipse&logoColor=white&labelColor=grey">  <img alt="Static Badge" src="https://img.shields.io/badge/-LaTeX-LaTeX?logo=latex&logoColor=white&labelColor=grey&color=blue"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-blue?logo=cplusplus&labelColor=grey">  <img alt="Static Badge" src="https://img.shields.io/badge/Java-%2523ED8B00?logo=openjdk&logoColor=white&labelColor=grey&color=blue">  <img alt="Static Badge" src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&labelColor=grey"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML-label?logo=html5&logoColor=white&labelColor=grey&color=blue"> <img alt="Static Badge" src="https://img.shields.io/badge/-LaTeX-LaTeX?logo=latex&logoColor=white&labelColor=grey&color=blue"> 
 
 ## About me
 I am a second year Computer Engineering student at Simon Fraser University. Most of my experience is with C++, Matlab and Java, however I also know Python, VHDL, and HTML/CSS.
