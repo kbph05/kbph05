@@ -1,7 +1,9 @@
 # Kirstin Horvat
-<img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-blue?logo=cplusplus&labelColor=grey">  <img alt="Static Badge" src="https://img.shields.io/badge/Java-%2523ED8B00?logo=openjdk&logoColor=white&labelColor=grey&color=blue">  <img alt="Static Badge" src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&labelColor=grey"> <img alt="Static Badge" src="https://img.shields.io/badge/-LaTeX-LaTeX?logo=latex&logoColor=white&labelColor=grey&color=blue">
-
-
+<img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-blue?logo=cplusplus&labelColor=grey">  
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-%2523ED8B00?logo=openjdk&logoColor=white&labelColor=grey&color=blue">  
+<img alt="Static Badge" src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&labelColor=grey"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/-LaTeX-LaTeX?logo=latex&logoColor=white&labelColor=grey&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-label?logo=html5&logoColor=white&labelColor=grey&color=blue">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/-Eclipse-blue?logo=eclipse&logoColor=white&labelColor=grey">
 
