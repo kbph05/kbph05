@@ -12,6 +12,7 @@ I am a second year Computer Engineering student at Simon Fraser University. Most
 If you're curious about my projects, feel free to reach out to me on LinkedIn
 
 
-![Snake animation](https://github.com/kbph05/kbph05/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kbph05/kbph05/blob/output/snake.svg)
+
 
 
