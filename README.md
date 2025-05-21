@@ -8,11 +8,8 @@ I am a second year Computer Engineering student. Most of my experience is with C
 - I enjoy self-repairing computers, where I am currently rebuilding a recycled Windows desktop using new and old spare computer parts. 
 - Outside of the digital world, I have a hobby for water skiing and the clarinet.
 
-### Requests
-If you're curious about my projects, feel free to reach out to me on LinkedIn
-
 <!--
-![Snake animation](https://github.com/kbph05/kbph05/blob/output/snake.svg)
---->
-
+### Requests
+If you're curious about my projects, feel free to reach out to me on
+-->
 
