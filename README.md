@@ -5,8 +5,8 @@
 I am a third year Computer Engineering student. Most of my experience is with back-end developpment in C/C++, Java, Python, with some knowledge in JavaScript/Node.js, CSS, and HTML. I also have an understanding of digital systems and have worked with VHDL to create simple digital circuits.
 
 ## Interests
-- I enjoy self-repairing computers, where I rebuilt a recycled Windows desktop using new and old spare computer parts. 
-- Outside of the digital world, I have a hobby for water skiing, playing the clarinet, and working out at the gym.
+- I enjoy self-repairing computers and supporting the right to repair movement. 
+- I have a hobby for water skiing, playing the clarinet, and working out at the gym. As of now, I am attempting to learn the drums too! 🥁
 
 <!--
 ### Requests
