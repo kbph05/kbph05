@@ -3,7 +3,7 @@ name: generate animation
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 */23 * * *" 
+    - cron: "0 0 * * *"
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -28,6 +28,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          color_snake: "f5c2e7"
+          color_dots: "#45475a,#585b70,#f38ba8,#f5c2e7,#cba6f7"
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
