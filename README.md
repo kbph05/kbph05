@@ -35,10 +35,13 @@ Here are some of my most notable projects I have worked on
 - I have a hobby for water skiing, playing the clarinet, and working out at the gym
 - As of now, I am attempting to learn the drums! 🥁
 
-
-![Snake animation](https://github.com/kbph05/kbph05/blob/output/github-contribution-grid-snake.svg)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/kbph05/kbph05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/kbph05/kbph05/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation"
+       src="https://raw.githubusercontent.com/kbph05/kbph05/output/github-contribution-grid-snake.svg">
 </picture>
+
+
