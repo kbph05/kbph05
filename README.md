@@ -30,6 +30,10 @@ Here are some of my most notable projects I have worked on
 
 - A C++ coded game created during the CSSS Mountaintop Game Jam using [Carpenter Engine](https://github.com/MesaGuildeTeam/Carpenter-Engine), a custom-built game engine.
 
+![Snake animation](https://github.com/kbph05/kbph05/blob/output/github-contribution-grid-snake.svg)
+
+# Do change the username (YOUR_USERNAME) to yours.
+
 ## Interests
 - I enjoy self-repairing computers and supporting the right to repair movement. 
 - I have a hobby for water skiing, playing the clarinet, and working out at the gym
