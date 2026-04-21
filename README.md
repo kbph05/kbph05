@@ -33,7 +33,6 @@ Here are some of my most notable projects I have worked on
 ## Interests
 - I enjoy self-repairing computers and supporting the right to repair movement. 
 - I have a hobby for water skiing, playing the clarinet, and working out at the gym
-- As of now, I am attempting to learn the drums! 🥁
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
