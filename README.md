@@ -1,5 +1,14 @@
 # Welcome! I'm Kirstin
 <!--![kbph05](https://github.com/user-attachments/assets/4d06e6bf-de53-4373-82ae-d5c3ecdd79c2)-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/kbph05/kbph05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/kbph05/kbph05/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation"
+       src="https://raw.githubusercontent.com/kbph05/kbph05/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 <img alt="Static Badge" src="https://img.shields.io/badge/C-Label?style=for-the-badge&logo=c&logoColor=white&labelColor=grey&color=%23c4a484"> <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-label?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=grey&color=%23c4a484">  <img alt="Static Badge" src="https://img.shields.io/badge/Java-%2523ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=grey&color=%23c4a484">  <img alt="Static Badge" src="https://img.shields.io/badge/RISC%20V-Label?style=for-the-badge&logo=riscv&logoColor=white&labelColor=grey&color=%23c4a484">  <img alt="Static Badge" src="https://img.shields.io/badge/Python-label?style=for-the-badge&logo=python&logoColor=white&labelColor=grey&color=%23c4a484">  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-label?style=for-the-badge&logo=html5&logoColor=white&labelColor=grey&color=%23c4a484">
 
@@ -34,13 +43,5 @@ Here are some of my most notable projects I have worked on
 - I enjoy self-repairing computers and supporting the right to repair movement. 
 - I have a hobby for water skiing, playing the clarinet, and working out at the gym
 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/kbph05/kbph05/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/kbph05/kbph05/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation"
-       src="https://raw.githubusercontent.com/kbph05/kbph05/output/github-contribution-grid-snake.svg">
-</picture>
 
 
